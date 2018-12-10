@@ -1,2 +1,2 @@
 # Warsztat_Samochodowy
-plikacja z wykorzystaniem Servletów
+Aplikacja z wykorzystaniem Servletów
